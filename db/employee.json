@@ -1,0 +1,22 @@
+{
+  "emps": [
+    {
+      "id": "1",
+      "name": "rahul",
+      "post": "CEO",
+      "sal": "40000"
+    },
+    {
+      "id": "2",
+      "name": "RAM",
+      "post": "MANAGER",
+      "sal": "700000"
+    },
+    {
+      "id": "3",
+      "name": "MOHAN",
+      "post": "SECURITY",
+      "sal": "10000"
+    }
+  ]
+}
